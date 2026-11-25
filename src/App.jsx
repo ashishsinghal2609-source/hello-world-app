@@ -3,7 +3,7 @@ import { HelloWorld } from './components/HelloWorld';
 
 export function App() {
   return (
-    <main>
+    <main style={{ backgroundColor: 'purple' }}>
       <HelloWorld />
     </main>
   );
